@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doctors>
+    <doctor>
+        <name>Dr. A</name>
+        <city>Guwahati</city>
+        <state>Assam</state>
+        <latitude>26.1833</latitude>
+        <longitude>91.7333</longitude>
+    </doctor>
+    <doctor>
+        <name>Dr. B</name>
+        <city>Kanpur</city>
+        <state>Uttar Pradesh</state>
+        <latitude>26.4607</latitude>
+        <longitude>80.3334</longitude>
+    </doctor>
+    <doctor>
+        <name>Dr. C</name>
+        <city>Bhubaneshwar</city>
+        <state>Odisa</state>
+        <latitude>20.2700</latitude>
+        <longitude>85.8400</longitude>
+    </doctor>
+    <doctor>
+        <name>Dr. D</name>
+        <city>Dibrugarh</city>
+        <state>Assam</state>
+        <latitude>27.4800</latitude>
+        <longitude>95.0000</longitude>
+    </doctor>
+    <doctor>
+        <name>Dr. E</name>
+        <city>Patna</city>
+        <state>Bihar</state>
+        <latitude>25.6110</latitude>
+        <longitude>85.144</longitude>
+    </doctor>
+</doctors>
